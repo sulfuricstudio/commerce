@@ -1,19 +1,19 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Sulfur | An LGBT Focused Clothing Brand",
+  "titleTemplate": "%s - Sulfur | An LGBT Focused Clothing Brand",
+  "description": "Sulfur | An LGBT Focused Clothing Brand",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Sulfur | An LGBT Focused Clothing Brand",
+    "description": "Sulfur | An LGBT Focused Clothing Brand",
     "type": "website",
     "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "site_name": "Sulfur",
     "images": [
       {
         "url": "/card.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Sulfur"
       }
     ]
   },
